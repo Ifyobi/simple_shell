@@ -1,1 +1,1 @@
-simple_shell team task
+simple_shell group task
